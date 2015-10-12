@@ -1,0 +1,6 @@
+Database Acct:
+admin -> odin
+
+
+Drupal User1 Acct:
+admin -> odin
