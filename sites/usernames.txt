@@ -1,6 +1,6 @@
 Database Acct:
-admin -> odin
+admin -> password
 
 
 Drupal User1 Acct:
-admin -> odin
+admin -> password
