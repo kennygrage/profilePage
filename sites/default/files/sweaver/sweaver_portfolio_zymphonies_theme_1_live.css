@@ -1,0 +1,16 @@
+.bounce #logo {
+  height: 575px;
+}
+
+.zymphonies #logo {
+  height: 100px;
+}
+
+h1 a {
+  font-family: 'Lucida Sans','Lucida Grande',Sans-Serif;
+  font-size: 55px;
+  font-weight: normal;
+  height: 50px;
+  line-height: 50px;
+}
+
